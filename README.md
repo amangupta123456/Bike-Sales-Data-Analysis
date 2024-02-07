@@ -15,4 +15,4 @@ Suggestion:
 -
 Our Main customer are Men living in North America in the Occupation of Management and Professionals with commute distances less than 10 miles. Provide the good offers/ Show ads to these customers for  an increase in the sales of bikes.
 
-(BY evaluating insights point 2,5 we can say that customers which have (0-1)Miles commute distance have highest count of sales and Mangement and Professional occupation customers having more than 10+ miles commute distance are mostly get the bikes so target those customers which has less than 10 miles commute distance ).
+(BY evaluating sample insights point 2,5 we can say that customers which have (0-1)Miles commute distance have highest count of sales and Mangement and Professional occupation customers having more than 10+ miles commute distance are mostly get the bikes so target those customers which has less than 10 miles commute distance ).
