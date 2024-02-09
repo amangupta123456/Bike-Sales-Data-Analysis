@@ -4,15 +4,15 @@
 
 Sample Insights:
 -
-1. Avg Income per Purchase in bikes are mostly by men.
-2. Middle Age Customers (31-54) have highest count of purchases.
-3. (0-1) Miles Commute Distance Customers have highest count of buying the bikes.
-4. Single Graduate Men Purchases of Bike have highest income per purchase.
-5. North American Customers have highest count of bike purchases.
-6. Mangement And Professionls Occupation customers purchase have highest income per purchase but their commute distance are more than 10 Miles.
+1. Men tend to have the highest average income per purchase in bikes.
+2. Middle-aged customers (31-54) make the most purchases.
+3. Customers who commute 0-1 miles have the highest count of bike purchases.
+4. Single graduate men who buy bikes have the highest income per purchase.
+5. North American customers make the most bike purchases.
+6. Customers in management and professional occupations have the highest income per purchase, but they tend to commute more than 10 miles.
 
 Suggestion:
 -
-Our Main customer are Men living in North America in the Occupation of Management and Professionals with commute distances less than 10 miles. Provide the good offers/ Show ads to these customers for  an increase in the sales of bikes.
+Our main customer base consists of men living in North America, employed in management and professional occupations, and commuting less than 10 miles. To increase sales, we should provide good offers and show ads targeting these customers.
 
-(BY evaluating sample insights point 2,5 we can say that customers which have (0-1)Miles commute distance have highest count of sales and Mangement and Professional occupation customers having more than 10+ miles commute distance are mostly get the bikes so target those customers which has less than 10 miles commute distance ).
+(Based on the sample insights, we can infer that customers with commutes of 0-1 miles are most likely to purchase bikes, while those in management and professional occupations who commute more than 10 miles are also likely to buy bikes. Therefore, we should focus on customers with commutes of less than 10 miles.)
