@@ -5,11 +5,11 @@
 Sample Insights:
 -
 1. Avg Income per Purchase in bikes are mostly by men.
-2. Middle Age Customers(31-54) have highest count of purchases.
-3. (0-1)Miles Commute Distance Customers have highest count of buying the bikes.
-4. Single Graduate Men Puchases of Bike have highest income per puchase.
+2. Middle Age Customers (31-54) have highest count of purchases.
+3. (0-1) Miles Commute Distance Customers have highest count of buying the bikes.
+4. Single Graduate Men Purchases of Bike have highest income per purchase.
 5. North American Customers have highest count of bike purchases.
-6. Mangement And Professionls Ocuupation customeres purchase have highest income per purchase but their commute distance are more than 10 Miles.
+6. Mangement And Professionls Occupation customers purchase have highest income per purchase but their commute distance are more than 10 Miles.
 
 Suggestion:
 -
